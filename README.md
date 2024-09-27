@@ -134,11 +134,3 @@ Utilize o **Thunder Client** ou qualquer outra ferramenta de teste de API (como 
 ## Contribuições
 
 Sinta-se à vontade para fazer um fork deste repositório, fazer suas modificações e abrir um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Esse README fornece uma visão geral clara do projeto, suas funcionalidades e instruções de uso, facilitando para qualquer desenvolvedor a compreensão e a utilização da API. Se precisar de mais alguma coisa, é só avisar!
